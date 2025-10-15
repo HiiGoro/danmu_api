@@ -317,12 +317,3 @@ danmu_api/
 2. 检查你在播放器的填写是否正确，有无多余空格等
 3. 播放器请求后，查看 `http://192.168.1.7:9321/87654321/api/logs` 日志，看请求是否有报错，比如有用户在自己软路由上搭建，但走了全局代理，导致人人等访问不了，请确保走直连
 4. 如果你播放的影片片名不规范，很可能搜不到，请确保片名规范
-
-### 贡献者
-<a href="https://github.com/huangxd-/danmu_api/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=huangxd-/danmu_api" alt="contributors" />
-</a>
-
-### 📈项目 Star 数增长趋势
-#### Star History
-[![Star History Chart](https://api.star-history.com/svg?repos=huangxd-/danmu_api&type=Date)](https://www.star-history.com/#huangxd-/danmu_api&Date)
